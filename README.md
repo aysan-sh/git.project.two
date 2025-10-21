@@ -1,1 +1,1 @@
-# git.project.two
+# git-project-two
